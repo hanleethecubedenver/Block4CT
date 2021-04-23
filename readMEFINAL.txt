@@ -1,0 +1,5 @@
+This code works to contain some things that you want to be stored. This is a list code. It impliments things you want to give it. After if you want theres a list of options 1-10, you pick a number and press enter this can vary on exactly what part of the program its going to call.
+You can pick for example the searchlist and it will search ur list to what you want it to search for. There are other parts like linear search which searches ur list one by one until it finds what you look for. This is basically a summary of how this code works.
+
+I think if we put a system to make it like a real list and then instead of typing what you want like the number then hitting enter i want to click what i want then search by typing it, then it searching for it through the list and if it finds it, it gives you it.
+I feel like theres a way to impliment a picture into the code as well as being able to click and upon clicking it receiving and doing something.
